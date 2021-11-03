@@ -7,6 +7,7 @@ class Pizza extends COmponent {
         return (
             <div>
                 <h1>The Pizza</h1>
+                
                 <PizzaImage />
             </div>
         )
